@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Akram AL OUMAMI
 
-<!--
-**Akram-Alm/Akram-Alm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student | Full Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 Third-year Software Engineering student at **ENSIAS, Morocco**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building scalable web applications, backend development, and integrating AI into real-world solutions.
+
+- 🔭 Currently working on Full Stack Development and AI-powered applications
+- 🌱 Learning Spring Boot, React, Microservices, and DevOps
+- 🤖 Interested in RAG, Generative AI, and intelligent applications
+- 💼 Internship experience at REDAL and Prestige Digital Solutions
+
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+Java · C · C# · Python · JavaScript · SQL
+
+### Frontend Development
+HTML5 · CSS3 · JavaScript · React
+
+### Backend Development
+Spring Boot · ASP.NET Core MVC · FastAPI · REST APIs
+
+### Databases
+MySQL · SQL Server
+
+### AI & Machine Learning
+RAG · LLM Integration · Ollama 
+
+### DevOps & Cloud
+Docker · Docker Compose · Git · GitHub Actions · Azure · Kubernetes · AWS
+
+### Tools
+IntelliJ IDEA · Visual Studio · VS Code · Postman · Eclipse
+
+---
+
+
+## 🎓 Education 
+
+- 🎓 Software Engineering — ENSIAS, Morocco
+
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: aloumami.akram04@gmail.com
+
+💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/akram-al-oumami-575155248/)
+
+💻 GitHub: [Akram-Alm](https://github.com/Akram-Alm)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
